@@ -104,10 +104,6 @@
     color: black;
 }
 
-.attribution {
-    margin-top: 10rem;
-    text-align: center;
-}
 
 @media only screen and  (max-width:600px) {
     .container {
